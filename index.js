@@ -1,6 +1,6 @@
 var animal = 'dog';
 
-function myAnimal(if false) {
+function myAnimal( false) {
   return animal;
 }
 
